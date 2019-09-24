@@ -1,0 +1,68 @@
+//头部导航样式
+.nav-zrb {
+  background: red;
+  height: 40px;
+  width: 100%;
+  line-height: 37px;
+
+  img {
+    margin-left: 50px;
+  }
+
+  ul {
+    width: 380px;
+    margin-left: 0px;
+    line-height: 40px;
+
+    li {
+      margin: 0 10px;
+      color: #fff;
+      font-size: 16px;
+    }
+
+    li:hover {
+      color: black;
+    }
+  }
+
+  button {
+    width: 50px;
+    background: green;
+    border: none;
+  }
+}
+
+//左边导航样式
+.navleft-zrb {
+  width: 300px;
+
+  li {
+    margin: 6px 30px;
+  }
+}
+
+// 中间样式
+.mlddle-zrb {
+  width: 600px;
+  text-align: center;
+  margin-top: 15px;
+
+  p {
+    line-height: 40px;
+  }
+}
+
+//右边样式
+.right-zrb {
+  display: block;
+  width: 120px;
+  height: 30px;
+  float: left;
+  line-height: 30px;
+  margin-left: 25px;
+}
+
+.titel {
+  border-left: 10px solid red;
+  padding-left: 20px;
+}

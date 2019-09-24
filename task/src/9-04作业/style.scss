@@ -1,0 +1,42 @@
+.input-zrb-1 {
+	justify-content: center;
+
+	input {
+		padding-left: 250px;
+		margin: 20px 0px;
+		width: 350px;
+		font-size: 20px;
+		border: 2px solid red;
+		line-height: 55px;
+		background: palegreen;
+		color: #fff;
+	}
+
+	button {
+		float: right;
+		height: 50px;
+		width: 70px;
+		background: blue;
+		border: 1px solid blue;
+		font-size: 20px;
+		color: #fff;
+		border-radius: 10px;
+	}
+}
+
+.information {
+	width: 600px;
+	margin: 0 auto;
+
+	td {
+		text-align: center;
+	}
+
+	button {
+		width: 150px;
+		height: 30px;
+		background: salmon;
+		border: none;
+		font-size: 15px;
+	}
+}

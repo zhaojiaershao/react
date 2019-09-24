@@ -1,0 +1,116 @@
+// 首页顶端样式
+.header-zb-1 {
+	background: blue;
+	line-height: 40px;
+
+	li {
+		margin: 0 30px;
+		padding: 0 15px;
+		background: red;
+	}
+}
+
+// 搜索框样式
+.search-inner-1 {
+	margin-top: 10px;
+	background: blue;
+
+	button {
+		background: red;
+		border: 2px solid red;
+		line-height: 40px;
+		color: #fff;
+	}
+
+	input,
+	.search {
+		line-height: 40px;
+		border: 2px solid red;
+	}
+
+	.search {
+		margin-left: 40px;
+	}
+
+
+	li {
+		margin: 0 30px;
+		line-height: 40px;
+		background: red;
+		padding: 0 15px;
+		font-size: 20px;
+		color: #fff;
+	}
+}
+
+// 标题样式
+.works-inner-1 {
+	justify-content: center;
+	background: blue;
+	margin-top: 10px;
+
+	h2 {
+		width: 50%;
+		text-align: center;
+		background: red;
+		line-height: 50px;
+		color: #fff;
+	}
+}
+
+// 产品介绍样式
+.best {
+	background: blue;
+
+	.brief-inner-1 {
+		margin: 10px 20px 30px 20px;
+
+		li {
+			line-height: 40px;
+			margin: 0 10px;
+			color: #fff;
+			background: red;
+			padding: 0 20px;
+			margin: 10px 10px;
+		}
+	}
+
+	.phone {
+		height: 200px;
+		width: 100px;
+		margin: 0 50px;
+	}
+
+	.red {
+		background: red;
+	}
+
+	.orage {
+		background: orange;
+	}
+
+	.yellow {
+		background: yellow;
+	}
+
+	.black {
+		background: black;
+	}
+
+	.fff {
+		background: orchid;
+	}
+
+	span {
+		display: block;
+		margin: 20px auto;
+		width: 70px;
+		height: 100px;
+		background: green;
+	}
+
+	p {
+		text-align: center;
+		color: #fff;
+	}
+}

@@ -1,0 +1,23 @@
+.header {
+	width: 90%;
+	height: 100px;
+	list-style: none;
+	background: red;
+	margin: 10px;
+	margin: 0 auto;
+
+	ul {
+		list-style: none;
+	}
+
+	li {
+		width: 23.3%;
+		height: 80px;
+		line-height: 80px;
+		background: blue;
+		float: left;
+		text-align: center;
+		margin: 10px;
+		font-size: 25px;
+	}
+}

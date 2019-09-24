@@ -1,0 +1,46 @@
+.Max-Z {
+	width: 800px;
+	height: 600px;
+	margin: 0 auto;
+	background: red;
+
+	.LeftNav {
+		float: left;
+	}
+
+	.TopNav {
+		float: right;
+	}
+
+	.TopNav li {
+		float: left;
+	}
+
+	.btn {
+		line-height: 50px;
+		width: 100px;
+		background: green;
+		margin: 35px 30px;
+		border: none;
+		font-size: 20px;
+		color: #fff;
+	}
+
+	.but {
+		line-height: 35px;
+		width: 70px;
+		background: green;
+		margin: 40px 25px;
+		border: none;
+		font-size: 17px;
+		color: #fff;
+	}
+
+	.Content {
+		width: 400px;
+		height: 400px;
+		background: yellow;
+		float: right;
+		margin: 40px;
+	}
+}

@@ -1,0 +1,28 @@
+.app {
+	text-align: center;
+	line-height: 100px;
+	width: 400px;
+	height: 100px;
+	margin: 10px;
+	background: blue;
+}
+
+.anim {
+	text-align: center;
+	line-height: 200px;
+	float: left;
+	width: 190px;
+	height: 200px;
+	margin: 10px;
+	background: blue;
+}
+
+.bug {
+	text-align: center;
+	line-height: 200px;
+	float: left;
+	width: 190px;
+	height: 200px;
+	margin: 10px;
+	background: blue;
+}

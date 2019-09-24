@@ -1,0 +1,30 @@
+.main {
+	width: 90%;
+	height: 300px;
+	background: red;
+	margin: 0 auto;
+
+	div {
+		width: 31.6%;
+		height: 280px;
+		float: left;
+		background: blue;
+		margin: 10px;
+		text-align: center;
+		line-height: 280px;
+	}
+
+	li {
+		list-style: none;
+		text-align: center;
+		line-height: 50px;
+	}
+
+	.banner {
+		text-align: center;
+	}
+
+	img {
+		margin-top: 10px;
+	}
+}

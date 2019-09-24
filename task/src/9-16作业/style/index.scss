@@ -1,0 +1,81 @@
+.max {
+	width: 600px;
+	height: 400px;
+	background: red;
+	margin: 0 auto;
+	text-align: center;
+
+	.btn-left {
+		background: green;
+		border: none;
+		color: #fff;
+		text-align: center;
+		margin: 10px 10px;
+		width: 200px;
+		line-height: 30px;
+	}
+
+	.btn-right {
+		background: green;
+		border: none;
+		color: #fff;
+		text-align: center;
+		margin: 10px 10px;
+		width: 200px;
+		line-height: 30px;
+	}
+}
+
+
+
+//左边的背景样式
+.left-btn {
+	width: 200px;
+	height: 300px;
+	background: blueviolet;
+	text-align: center;
+	margin: 30px 0px 0px 90px;
+	line-height: 300px;
+
+	li {
+		line-height: 60px;
+	}
+
+	li button {
+		line-height: 30px;
+		margin-top: 30px;
+		background: blue;
+		color: #fff;
+	}
+}
+
+//右边的背景样式
+.right-content {
+	width: 200px;
+	height: 300px;
+	background: blueviolet;
+	margin: 30px 90px 0 0;
+	line-height: 300px;
+	text-align: center;
+	color: #fff;
+}
+
+.palegreen {
+	background: palegreen;
+}
+
+.darkcyan {
+	background: darkcyan;
+}
+
+.chartreuse {
+	background: chartreuse;
+}
+
+.peru {
+	background: peru;
+}
+
+.aqua {
+	background: aqua;
+}

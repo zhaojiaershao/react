@@ -1,0 +1,30 @@
+.Input {
+	justify-content: center;
+
+	input {
+		width: 300px;
+		line-height: 45px;
+		background: black;
+		color: #fff;
+		padding-left: 135px;
+	}
+
+	button {
+		width: 100px;
+		line-height: 45px;
+		border-radius: 10px;
+		background: green;
+		border: none;
+	}
+}
+
+.btn {
+	margin: 20px auto;
+	width: 400px;
+	background: red;
+	padding-left: 20px;
+
+	li {
+		margin: 10px auto;
+	}
+}

@@ -1,0 +1,102 @@
+//最外面的样式
+.max-zrb {
+	width: 700px;
+	height: 500px;
+	border: 1px solid red;
+	margin: 10px auto;
+	background: papayawhip;
+}
+
+//顶部按钮样式
+.title-zrb {
+	width: 95%;
+	background: red;
+	margin: 10px auto;
+
+	.topnav-zrb {
+		width: 540px;
+		display: flex;
+		justify-content: space-between;
+
+		button {
+			margin: 20px 0;
+			padding: 0 10px;
+		}
+	}
+
+	.h2 {
+		line-height: 80px;
+		margin-left: 10px;
+		color: #fff;
+	}
+
+}
+
+//内容样式
+.context-zrb {
+	width: 95%;
+	height: 380px;
+	background: powderblue;
+	margin: 0 auto;
+
+	.content-zrb-2 {
+		width: 320px;
+		height: 320px;
+		float: right;
+		margin: 35px;
+	}
+}
+
+//按钮样式
+.btn-zrb {
+	width: 200px;
+	height: 320px;
+	background: greenyellow;
+	margin: 35px;
+	float: left;
+
+	.zhang {
+		width: 100px;
+		height: 60px;
+		margin: 30px auto;
+	}
+
+	.zhou {
+		width: 100px;
+		height: 60px;
+		margin: 30px auto;
+	}
+
+	.cao {
+		width: 100px;
+		height: 60px;
+		margin: 30px auto;
+	}
+
+	button {
+		width: 100px;
+		height: 60px;
+		border: none;
+	}
+}
+
+
+.red {
+	background: red;
+}
+
+.blue {
+	background: blue;
+}
+
+.yellow {
+	background: yellow;
+}
+
+.bisque {
+	background: bisque;
+}
+
+.purple {
+	background: purple;
+}
